@@ -1,2 +1,3 @@
 # apnacollage-demo
-this is my frist Git repository
+this is my frist Git repository.
+Autor - Sarthak Modanwal
